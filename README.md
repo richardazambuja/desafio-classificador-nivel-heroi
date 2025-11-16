@@ -1,1 +1,1 @@
-a
+Para fins de estudo da linguagem Javascript
